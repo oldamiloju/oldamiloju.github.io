@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    text-align: center;
+  }
+  p{
+    color: white;
+  }
+  h1{
+    color: white
+  }
+  h6{
+    color: grey;
+    font-style: italic;
+  }
+  img{
+    border-radius: 5px;
+  }
