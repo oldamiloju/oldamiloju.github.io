@@ -6,11 +6,17 @@ p{
   color: white;
 }
 h1{
-  color: white
+  color: white;
+}
+h3{
+  color: white;
 }
 h6{
   color: grey;
   font-style: italic;
+}
+ul{
+  color: white;
 }
 img{
   border-radius: 5px;
