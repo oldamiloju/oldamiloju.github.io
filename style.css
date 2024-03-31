@@ -25,7 +25,8 @@ ul{
   font-size: 17px;
 }
 img{
-  border-radius: 5px;
+  border-radius: 5px;7
+  float: center;
 }
 a {
   text-align: left; 
