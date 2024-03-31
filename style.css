@@ -4,6 +4,10 @@
   margin-right: auto;
   width: 50%;
 }
+.a2{
+  font-size: 16px;
+  color: grey;
+}
 body{
   background-color: black;
   
@@ -35,7 +39,7 @@ img{
 }
 a {
   text-align: left; 
- font-size: 20px;
+ font-size: 30px;
  border-style: outset;
  border-color: grey ;
  border-radius: 3px;
