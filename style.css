@@ -5,8 +5,9 @@
   width: 50%;
 }
 .a2{
-  font-size: 16px;
-  color: grey;
+  color: blue;
+  font-size: 19px;
+  border-style: none;
 }
 body{
   background-color: black;
