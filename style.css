@@ -29,9 +29,9 @@ img{
 }
 a {
   text-align: left; 
- font-size: 15px;
+ font-size: 30px;
  border-style: outset;
- border-color: ;
+ border-color: grey ;
  border-radius: 3px;
   padding: inherit;
   text-decoration: none;
