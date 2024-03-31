@@ -2,17 +2,16 @@ body{
   background-color: black;
   
 }
-li::marker {
-  color: white;
-}
 p{
   color: white;
+  font-size: 25px;
 }
 h1{
   color: white;
 }
 h3{
   color: white;
+  font-size: 20px;
 }
 h6{
   color: grey;
