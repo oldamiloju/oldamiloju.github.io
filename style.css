@@ -82,6 +82,7 @@ body{
   .col-11 {width: 91.66%;}
   .col-12 {width: 100%;}
   .center {width: 85%;}
+  h1 {text-align: left;}
 }
 p{
   color: white;
