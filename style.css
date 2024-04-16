@@ -40,7 +40,7 @@ li a:hover:not(.active) {
   background-color: #9e45d1;
 }
 header{
-  background-color: white;
+  background-color: #000;
   padding: 15px;
 }
 body{
