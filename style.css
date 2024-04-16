@@ -66,7 +66,7 @@ body{
 /* For mobile phones: */
 [class*="col-"] {
   width: 100%;
-}{text-align: center;}
+}
 @media only screen and (min-width: 768px) {
   /* For desktop: */
   .col-1 {width: 8.33%;}
