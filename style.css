@@ -2,11 +2,12 @@
   float: left;
 }
 .center {
-  width: 100%;
-  height: auto;
-  align-items: center;
-  justify-content: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
+
 .a2{
   color: lightskyblue;
   font-size: 19px;
