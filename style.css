@@ -40,15 +40,12 @@ body{
   .col-11 {width: 91.66%;}
   .col-12 {width: 100%;}
 }
-@media only screen and (max-width: 768px) {
-  img {width: 85%;}
-}
 p{
   color: white;
   font-size: 19px;
 }
 h1{
-  color: white;
+  color: black;
 }
 h2{
   color: white;
