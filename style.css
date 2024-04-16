@@ -39,7 +39,7 @@ body{
   .col-10 {width: 83.33%;}
   .col-11 {width: 91.66%;}
   .col-12 {width: 100%;}
-  img {width: 40%;}
+  img {width: 80%; align-items: center; justify-content: center;}
 }
 p{
   color: white;
