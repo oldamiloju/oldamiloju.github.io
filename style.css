@@ -75,10 +75,9 @@ a {
   text-align: left; 
  font-size: 30px;
  border-style: outset;
- border-color: black ;
+ border-color: grey ;
  border-radius: 3px;
-  padding: inherit;
-  text-decoration: none;
-  color: white;
-  background-color: black;
+ padding: inherit;
+ text-decoration: none;
+ color: white;
 }
