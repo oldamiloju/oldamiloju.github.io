@@ -44,7 +44,7 @@ header{
   padding: 15px;
 }
 body{
-  background-color: white;
+  background-color: black;
   font-family: -apple-system, BlinkMacSystemFont, sans-serif;
 
 }
@@ -69,21 +69,21 @@ body{
   .center {width: 85%;}
 }
 p{
-  color: black;
+  color: white;
   font-size: 19px;
 }
 h1{
-  color: black;
+  color: white;
 }
 h2{
-  color: black;
+  color: white;
 }
 h3{
-  color: black;
+  color: white;
   font-size: 20px;
 }
 h6{
-  color: black;
+  color: grey;
   font-style: italic;
 }
 ul{
