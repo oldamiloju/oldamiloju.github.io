@@ -15,14 +15,14 @@
 .nav {
   list-style-type: none;
   margin: 0;
-  padding: 0;
+  padding: 15px;
   overflow: hidden;
   background-color: #232323;
 }
 .nav2 {
   list-style-type: none;
   margin: 0;
-  padding: 0;
+  padding: 15px;
   overflow: hidden;
   background-color: #232323;
 }
@@ -104,7 +104,6 @@ h6{
 ul{
   color: white;
   font-size: 17px;
-  padding: 15px;
 }
 img{
   display: block;
