@@ -12,10 +12,12 @@
 }
 header{
   background-color: white;
+  padding: 15px;
 }
 body{
   background-color: black;
-  
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+
 }
 /* For mobile phones: */
 [class*="col-"] {
