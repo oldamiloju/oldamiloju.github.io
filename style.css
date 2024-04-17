@@ -95,7 +95,7 @@ body{
    h2 {font-size: 35px;}
 }
 @media only screen and (min-width: 1300px) {}
-ul {padding: 25px;}
+.nav {padding: 25px;}
 p{
   color: white;
 }
