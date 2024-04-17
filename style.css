@@ -92,6 +92,7 @@ body{
   .center {width: 65%;}
   h1 {text-align: left; font-size: 50px;}
   p {font-size: 25px;}
+   h2 {font-size: 35px;}
 }
 p{
   color: white;
@@ -101,7 +102,6 @@ h1{
 }
 h2{
   color: white;
-  font-size: 35px;
 }
 h3{
   color: white;
