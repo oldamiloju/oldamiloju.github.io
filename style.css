@@ -93,6 +93,8 @@ body{
   h1 {text-align: left; font-size: 57px;}
   p {padding: 30px; font-size: 31px;}
    h2 {font-size: 43px;}
+  h3 {padding: 30px;}
+   h6 {padding: 30px;}
 }
 /*@media only screen and (min-width: 1300px) {}
 .nav {padding: 25px;}*/
