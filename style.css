@@ -89,7 +89,7 @@ body{
   .col-11 {width: 91.66%;}
   .col-12 {width: 100%;}*/
   .center {width: 65%;}
-  h1 {text-align: left;}
+  h1 {text-align: left; font-size: 50px;}
   p {font-size: 25px;}
 }
 p{
