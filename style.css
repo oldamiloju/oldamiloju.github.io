@@ -91,7 +91,7 @@ body{
   .col-12 {width: 100%;}*/
   .center {width: 65%;}
   h1 {text-align: left; font-size: 57px;}
-  p {font-size: 31px;}
+  p {text-align: left; font-size: 31px;}
    h2 {font-size: 43px;}
 }
 /*@media only screen and (min-width: 1300px) {}
