@@ -71,6 +71,8 @@ body{
   h1 {
     text-align: center;
   }
+  p {
+    font-size: 19px;}
 }
 @media only screen and (min-width: 768px) {
   /* For desktop: */
@@ -88,10 +90,10 @@ body{
   .col-12 {width: 100%;}*/
   .center {width: 65%;}
   h1 {text-align: left;}
+  p {font-size: 25px;}
 }
 p{
   color: white;
-  font-size: 19px;
 }
 h1{
   color: #ffffff;
