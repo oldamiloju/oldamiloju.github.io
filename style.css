@@ -108,6 +108,7 @@ h6{
   font-style: italic;
 }
 ul{
+  position: fixed;
   color: white;
   font-size: 17px;
 }
