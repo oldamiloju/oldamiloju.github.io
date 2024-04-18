@@ -1,9 +1,10 @@
-.flex-container{flex: 25%;
+.flex-container{
+  flex: 25%;
   max-width: 25%;
   padding: 30px;
   display: flex;
   background-color: #242424;
-   border-radius: 5px;
+  border-radius: 5px;
 }
 .flex-container > div {
   background-color: #242424;
