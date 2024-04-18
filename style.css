@@ -1,6 +1,8 @@
 .flex-container{flex: 25%;
   max-width: 25%;
   padding: 0 4px;
+  display: flex;
+  background-color: #242424;
 }
 .left{
   float: left;
