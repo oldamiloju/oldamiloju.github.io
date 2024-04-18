@@ -92,13 +92,6 @@ body{
 }
 @media only screen and (min-width: 601px) {
   img {width: 100%; height: auto;}
-.flex-container {padding: 30px;
-  flex: 75%;
-  max-width: 75%;
-  padding: 7px;
-  display: flex;
-  background-color: #242424;
-  border-radius: 5px;
 }
 @media only screen and (min-width: 768px) {
   /* For desktop: */
