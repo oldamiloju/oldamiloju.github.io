@@ -4,6 +4,12 @@
   display: flex;
   background-color: #242424;
 }
+.flex-container > div {
+  background-color: #242424;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+}
 .left{
   float: left;
 }
