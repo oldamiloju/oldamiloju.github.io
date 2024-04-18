@@ -110,7 +110,7 @@ body{
   .flex-container {padding: 30px;
   flex: 25%;
   max-width: 25%;
-  padding: 30px;
+  padding: 10px;
   display: flex;
   background-color: #242424;
   border-radius: 5px;
