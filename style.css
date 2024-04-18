@@ -99,6 +99,7 @@ body{
    h2 {font-size: 43px; padding: 30px;}
   h3 {padding: 30px;}
    h6 {padding: 30px;}
+  .flex-container {padding: 30px;}
 }
 /*@media only screen and (min-width: 1300px) {}
 .nav {padding: 25px;}*/
