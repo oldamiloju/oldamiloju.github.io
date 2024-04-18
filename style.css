@@ -88,6 +88,7 @@ body{
   background-color: #242424;
   border-radius: 5px;
 }
+  img {width: 100%; height: auto;}
 }
 @media only screen and (min-width: 768px) {
   /* For desktop: */
@@ -148,8 +149,6 @@ img{
   margin-left: auto;
   margin-right: auto;
   border-radius: 5px;
-  width: 100%;
-  height: auto;
 }
 
 }
