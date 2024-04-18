@@ -3,6 +3,7 @@
   padding: 30px;
   display: flex;
   background-color: #242424;
+   border-radius: 5px;
 }
 .flex-container > div {
   background-color: #242424;
@@ -105,7 +106,6 @@ body{
   h3 {padding: 30px;}
    h6 {padding: 30px;}
   .flex-container {padding: 30px;}
-  body {padding: 30px;}
 }
 /*@media only screen and (min-width: 1300px) {}
 .nav {padding: 25px;}*/
