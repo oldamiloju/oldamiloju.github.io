@@ -1,6 +1,6 @@
 .flex-container {padding: 30px;
-  flex: 100%;
-  max-width: 100%;}
+  flex: 50%;
+  max-width: 50%;}
 .flex-container > div {
   background-color: #242424;
 }
