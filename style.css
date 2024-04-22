@@ -32,6 +32,8 @@
   width: 100%;
   height: auto;
   border-radius: 5px;
+  justify-content: center;
+  align-items: center;
 }
 .a2{
   color: #a3a3a3;
