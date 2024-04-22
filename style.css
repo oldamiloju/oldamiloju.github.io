@@ -34,6 +34,8 @@
   border-radius: 5px;
   justify-content: center;
   align-items: center;
+  display: flex;
+  margin: auto;
 }
 .a2{
   color: #a3a3a3;
@@ -171,7 +173,16 @@ img{
   margin-right: auto;
   border-radius: 5px;
 }
-
-
 .link{text-align: center;}
 /*.img-container{text-align: center;}*/
+button{
+  background-color: #242424;
+  color: #242424;
+  border-radius: 5px;
+  text-align: center;
+  margin: auto;  
+}
+a{
+  color: white;
+  text-decoration: none;
+}
