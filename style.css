@@ -126,7 +126,7 @@ body{
   p {padding: 30px; font-size: 31px;}
    h2 {font-size: 43px; padding: 30px;}
   h3 {padding: 30px;}
-   h6 {padding: 30px;}
+   h6 {padding: 30px; width: 65%;}
   img {height: auto; width: 98%;}
   .flex-container {padding: 30px;
   flex: 25%;
